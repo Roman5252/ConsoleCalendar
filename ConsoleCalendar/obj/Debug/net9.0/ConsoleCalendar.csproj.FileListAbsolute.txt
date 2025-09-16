@@ -1,0 +1,14 @@
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\bin\Debug\net9.0\ConsoleCalendar.exe
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\bin\Debug\net9.0\ConsoleCalendar.deps.json
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\bin\Debug\net9.0\ConsoleCalendar.runtimeconfig.json
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\bin\Debug\net9.0\ConsoleCalendar.dll
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\bin\Debug\net9.0\ConsoleCalendar.pdb
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\obj\Debug\net9.0\ConsoleCalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\obj\Debug\net9.0\ConsoleCalendar.AssemblyInfoInputs.cache
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\obj\Debug\net9.0\ConsoleCalendar.AssemblyInfo.cs
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\obj\Debug\net9.0\ConsoleCalendar.csproj.CoreCompileInputs.cache
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\obj\Debug\net9.0\ConsoleCalendar.dll
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\obj\Debug\net9.0\refint\ConsoleCalendar.dll
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\obj\Debug\net9.0\ConsoleCalendar.pdb
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\obj\Debug\net9.0\ConsoleCalendar.genruntimeconfig.cache
+C:\Users\katyi\OneDrive\Рабочий стол\практика календарь\ConsoleCalendar\obj\Debug\net9.0\ref\ConsoleCalendar.dll
